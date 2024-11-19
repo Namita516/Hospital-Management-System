@@ -1,0 +1,178 @@
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\hospitalmanagementsystem.exe.config
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\hospitalmanagementsystem.exe
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\hospitalmanagementsystem.pdb
+C:\Users\grishma\source\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.csproj.AssemblyReference.cache
+C:\Users\grishma\source\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.Form1.resources
+C:\Users\grishma\source\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.Properties.Resources.resources
+C:\Users\grishma\source\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.csproj.GenerateResource.cache
+C:\Users\grishma\source\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\grishma\source\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.exe
+C:\Users\grishma\source\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.pdb
+C:\Users\grishma\source\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.Home.resources
+C:\Users\grishma\source\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.DoctorForm.resources
+C:\Users\grishma\source\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.DiagnosisForm.resources
+C:\Users\grishma\source\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.SplashForm.resources
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Azure.Core.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Azure.Identity.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.SqlServer.Server.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Buffers.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Memory.Data.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Memory.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Text.Json.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.ValueTuple.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Azure.Core.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Azure.Identity.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.SqlServer.Server.pdb
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\Microsoft.SqlServer.Server.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Buffers.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Memory.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Memory.Data.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Text.Json.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\System.ValueTuple.xml
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\grishma\source\repos\hospitalmanagementsystem\obj\Debug\hospital.9D5AD842.Up2Date
+C:\Users\grishma\source\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.PatientForm.resources
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\hospitalmanagementsystem.exe.config
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\hospitalmanagementsystem.exe
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\hospitalmanagementsystem.pdb
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Azure.Core.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Azure.Identity.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.SqlServer.Server.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Buffers.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Memory.Data.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Memory.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Text.Json.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.ValueTuple.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Azure.Core.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Azure.Identity.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.SqlServer.Server.pdb
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\Microsoft.SqlServer.Server.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Buffers.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Memory.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Memory.Data.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Text.Json.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\System.ValueTuple.xml
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.csproj.AssemblyReference.cache
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.DiagnosisForm.resources
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.DoctorForm.resources
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.Form1.resources
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.Home.resources
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.PatientForm.resources
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.Properties.Resources.resources
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.SplashForm.resources
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.csproj.GenerateResource.cache
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\obj\Debug\hospital.9D5AD842.Up2Date
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.exe
+C:\Users\QUIKCARE COMPUTERS\Downloads\repos\hospitalmanagementsystem\obj\Debug\hospitalmanagementsystem.pdb
